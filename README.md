@@ -1,2 +1,2 @@
-# hello-world
-Just another Repository
+Just a new kid trying to learn coding
+
